@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background: #005f73;
+    color: white;
+    padding: 1rem 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header .slogan-entreprise {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+nav {
+    background: #0a9396;
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+    
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 1rem;
+}
+
+main section {
+    margin-bottom: 2rem;
+}
+
+.slogan-gourde {
+    font-weight: bold;
+    font-style: italic;
+    color: #005f73;
+}
+
+footer {
+    text-align: center;
+    background: #94d2bd;
+    color: #005f73;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+}
+
+.container{
+    width: 700px;
+    margin: 40px auto;
+
+.card-white{
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: left;
+
+
+
+.list{
+    list-style: none;
+
+}
+
+.img-circle{
+        text-align: center;
+      
+        
+}
+.btn-black{
+    background-color:rgb(40, 60, 90) ;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 230px;
+    text-align: center;
+}
+.btn-black:hover{
+    background-color:darkred ;
+    color: white;
+}
+
+}
+.imge{
+     border-radius: 10%;
+
+
+}
